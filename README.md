@@ -1,5 +1,5 @@
 # Power-BI--Cycling-equipment-company
-Report for tracking KPIs, compare regional performance, analyze product level trend, and indentify high value clients.
+ Report for tracking KPIs, compare regional performance, analyze product level trend, and indentify high value clients.
 
 Project created during a course on Microsoft Power BI Desktop for Business Intelligence.
 
