@@ -5,7 +5,7 @@ Project created during a course on Microsoft Power BI Desktop for Business Intel
 
 Project presenting business intelligence workflow:
 
--connecting and shaping the data,
--building a relational model,
--adding calculated fields,
--and designing an interactive report.
+-connecting and shaping the data, 
+-building a relational model, 
+-adding calculated fields, 
+-and designing an interactive report. 
